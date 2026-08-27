@@ -1,6 +1,6 @@
 x = float(input("Digite a base do retangle: "))
 y = float(input("Digite a altura do retangle: "))
 
-z = x * y
+area = x * y
 
-print(f"area = {z}")
+print(f"area = {area}")
